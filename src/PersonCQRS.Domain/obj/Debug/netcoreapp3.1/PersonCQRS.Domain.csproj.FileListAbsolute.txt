@@ -1,0 +1,9 @@
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\bin\Debug\netcoreapp3.1\PersonCQRS.Domain.deps.json
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\bin\Debug\netcoreapp3.1\PersonCQRS.Domain.dll
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\bin\Debug\netcoreapp3.1\PersonCQRS.Domain.pdb
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.csprojAssemblyReference.cache
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.AssemblyInfoInputs.cache
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.AssemblyInfo.cs
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.dll
+C:\Users\soley\OneDrive\Desktop\PersonCQRS\src\PersonCQRS.Domain\obj\Debug\netcoreapp3.1\PersonCQRS.Domain.pdb
